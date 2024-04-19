@@ -3,7 +3,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/manufac.git
+git clone https://github.com/Imam-Ghazi-Khan/manufac.git
 ```
 
 2. Navigate to the project directory:
