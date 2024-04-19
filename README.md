@@ -34,11 +34,12 @@ This will start the development server and open the project in your default brow
 manufac/
 ├── src/
 │   ├── components/
-│   │   ├── FlavonoidsTable.tsx
-│   │   └── GammaTable.tsx
-│   ├── utils/
-│   │   ├── calculateStatistics.ts
-│   │   └── getMasterData.ts
+│   │   ├── WineStats.tsx
+│   ├── interfaces/
+│   │   ├── WineInterface.tsx
+│   ├── utils.ts
+│   │   ├── calculateStatistics()
+│   │   └── getMasterData()
 │   ├── App.tsx
 │   └── index.tsx
 ├── public/
